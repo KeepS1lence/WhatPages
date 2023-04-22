@@ -1,0 +1,11 @@
+h1{
+  text-align:center;
+  color:pink;
+}
+.video{
+  position:relative;
+  left:420px;
+}
+body{
+  background-image:url("https://d.newsweek.com/en/full/1920025/cat-its-mouth-open.jpg?w=1600&h=1600&q=88&f=b7a44663e082b8041129616b6b73328d");
+}
